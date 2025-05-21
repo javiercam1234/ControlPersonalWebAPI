@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj": {}
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
         "projectName": "ControlPersonalWebAPI.Data",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
+        "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
-                "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
+              "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
         "projectName": "ControlPersonalWebAPI.Entidades",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+        "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj": {
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
         "projectName": "ControlPersonalWebAPI.Service",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
+        "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -185,11 +185,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj"
+              "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj"
               },
-              "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
-                "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
+              "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
               }
             }
           }
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj": {
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
         "projectName": "ControlPersonalWebAPI.WebApi",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
+        "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -260,11 +260,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
-                "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
+              "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
               },
-              "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj": {
-                "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj"
+              "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj": {
+                "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj"
               }
             }
           }

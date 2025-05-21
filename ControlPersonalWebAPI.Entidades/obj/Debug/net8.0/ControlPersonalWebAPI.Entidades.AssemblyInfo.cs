@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlPersonalWebAPI.Entidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1899ae27fb2532f89d2276ff02b7009cd591e3e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlPersonalWebAPI.Entidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlPersonalWebAPI.Entidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

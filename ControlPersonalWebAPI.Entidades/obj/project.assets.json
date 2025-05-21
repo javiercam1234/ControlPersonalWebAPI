@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
       "projectName": "ControlPersonalWebAPI.Entidades",
-      "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+      "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

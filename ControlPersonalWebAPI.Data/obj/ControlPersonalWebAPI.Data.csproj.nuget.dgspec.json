@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {}
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
         "projectName": "ControlPersonalWebAPI.Data",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
+        "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
-                "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
+              "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
+    "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
         "projectName": "ControlPersonalWebAPI.Entidades",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+        "projectPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\source\\repos\\javiercam1234\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
