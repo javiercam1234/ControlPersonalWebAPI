@@ -1,0 +1,15 @@
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\bin\Debug\net8.0\ControlPersonalWebAPI.Data.deps.json
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\bin\Debug\net8.0\ControlPersonalWebAPI.Data.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\bin\Debug\net8.0\ControlPersonalWebAPI.Data.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.AssemblyInfo.cs
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlP.50AC84EA.Up2Date
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\refint\ControlPersonalWebAPI.Data.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ControlPersonalWebAPI.Data.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Data\obj\Debug\net8.0\ref\ControlPersonalWebAPI.Data.dll

@@ -1,0 +1,17 @@
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Service.deps.json
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Service.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Service.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Data.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Data.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.AssemblyInfo.cs
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlP.4225FA3F.Up2Date
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\refint\ControlPersonalWebAPI.Service.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ControlPersonalWebAPI.Service.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Service\obj\Debug\net8.0\ref\ControlPersonalWebAPI.Service.dll

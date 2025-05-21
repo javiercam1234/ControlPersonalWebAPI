@@ -1,0 +1,200 @@
+[
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PersonaController",
+    "Method": "CreatePersona",
+    "RelativePath": "api/Persona/CreatePersona",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "ControlPersonalWebAPI.Entidades.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PersonaController",
+    "Method": "DeletePersona",
+    "RelativePath": "api/Persona/DeletePersona/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PersonaController",
+    "Method": "GetPersona",
+    "RelativePath": "api/Persona/GetPersona/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ControlPersonalWebAPI.Entidades.Persona",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PersonaController",
+    "Method": "GetPersonas",
+    "RelativePath": "api/Persona/GetPersonas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ControlPersonalWebAPI.Entidades.Persona, ControlPersonalWebAPI.Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PersonaController",
+    "Method": "UpdatePersona",
+    "RelativePath": "api/Persona/UpdatePersona/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "persona",
+        "Type": "ControlPersonalWebAPI.Entidades.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PuestoController",
+    "Method": "CreatePuesto",
+    "RelativePath": "api/Puesto/CreatePuesto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "puesto",
+        "Type": "ControlPersonalWebAPI.Entidades.Puesto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PuestoController",
+    "Method": "DeletePuesto",
+    "RelativePath": "api/Puesto/DeletePuesto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PuestoController",
+    "Method": "GetPuesto",
+    "RelativePath": "api/Puesto/GetPuesto/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ControlPersonalWebAPI.Entidades.Puesto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PuestoController",
+    "Method": "GetPuestos",
+    "RelativePath": "api/Puesto/GetPuestos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ControlPersonalWebAPI.Entidades.Puesto, ControlPersonalWebAPI.Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControlPersonalWebAPI.WebApi.Controllers.PuestoController",
+    "Method": "UpdatePuesto",
+    "RelativePath": "api/Puesto/UpdatePuesto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "puesto",
+        "Type": "ControlPersonalWebAPI.Entidades.Puesto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

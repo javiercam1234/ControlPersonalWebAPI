@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.webapi\\controllers\\puestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|solutionrelative:controlpersonalwebapi.webapi\\controllers\\puestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C61C92-A91A-4A9A-82DC-FE501DD254F1}|ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.data\\repository\\puestorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C61C92-A91A-4A9A-82DC-FE501DD254F1}|ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj|solutionrelative:controlpersonalwebapi.data\\repository\\puestorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.webapi\\controlpersonalwebapi.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|solutionrelative:controlpersonalwebapi.webapi\\controlpersonalwebapi.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8DC2A6-1C75-4285-89F8-B57DF8E2C5CB}|ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.service\\controlpersonalwebapi.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F8DC2A6-1C75-4285-89F8-B57DF8E2C5CB}|ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj|solutionrelative:controlpersonalwebapi.service\\controlpersonalwebapi.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938BBE69-C25C-4186-8948-997B2D1C1E60}|ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.entidades\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938BBE69-C25C-4186-8948-997B2D1C1E60}|ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj|solutionrelative:controlpersonalwebapi.entidades\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938BBE69-C25C-4186-8948-997B2D1C1E60}|ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938BBE69-C25C-4186-8948-997B2D1C1E60}|ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj|solutionrelative:controlpersonalwebapi.entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938BBE69-C25C-4186-8948-997B2D1C1E60}|ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.entidades\\controlpersonalwebapi.entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{938BBE69-C25C-4186-8948-997B2D1C1E60}|ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj|solutionrelative:controlpersonalwebapi.entidades\\controlpersonalwebapi.entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C61C92-A91A-4A9A-82DC-FE501DD254F1}|ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.data\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C61C92-A91A-4A9A-82DC-FE501DD254F1}|ControlPersonalWebAPI.Data\\ControlPersonalWebAPI.Data.csproj|solutionrelative:controlpersonalwebapi.data\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.webapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|solutionrelative:controlpersonalwebapi.webapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|c:\\users\\javier\\source\\repos\\controlpersonalwebapi\\controlpersonalwebapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14437F06-5784-4174-8AE9-8C5A4969081D}|ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj|solutionrelative:controlpersonalwebapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlPersonalWebAPI.Entidades",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+              "RelativeToolTip": "ControlPersonalWebAPI.Entidades\\ControlPersonalWebAPI.Entidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T04:39:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Puesto.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\Puesto.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.Entidades\\Puesto.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\Puesto.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.Entidades\\Puesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:00:58.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Entidades\\Persona.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.Entidades\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:00:47.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlPersonalWebAPI.WebApi",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
+              "RelativeToolTip": "ControlPersonalWebAPI.WebApi\\ControlPersonalWebAPI.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T02:49:06.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuestoController.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\Controllers\\PuestoController.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.WebApi\\Controllers\\PuestoController.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\Controllers\\PuestoController.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.WebApi\\Controllers\\PuestoController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:35:02.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\Repository\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.Data\\Repository\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\Repository\\PersonaRepository.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.Data\\Repository\\PersonaRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAJ4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:07:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuestoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\Repository\\PuestoRepository.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.Data\\Repository\\PuestoRepository.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Data\\Repository\\PuestoRepository.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.Data\\Repository\\PuestoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:26:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlPersonalWebAPI.Service",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
+              "RelativeToolTip": "ControlPersonalWebAPI.Service\\ControlPersonalWebAPI.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T04:40:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.WebApi\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.WebApi\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:53:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ControlPersonalWebAPI.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Javier\\source\\repos\\ControlPersonalWebAPI\\ControlPersonalWebAPI.WebApi\\Program.cs",
+              "RelativeToolTip": "ControlPersonalWebAPI.WebApi\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:53:07.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

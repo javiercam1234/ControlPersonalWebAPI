@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6JwmuxUUavPrKjddEA8KHPo8mUdGSJB8UNxw9xnOh0o=",
+  "Source": "ControlPersonalWebAPI.WebApi",
+  "BasePath": "_content/ControlPersonalWebAPI.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

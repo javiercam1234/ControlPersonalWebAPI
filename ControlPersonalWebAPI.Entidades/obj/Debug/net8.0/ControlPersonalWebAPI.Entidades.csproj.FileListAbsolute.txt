@@ -1,0 +1,11 @@
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.deps.json
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\bin\Debug\net8.0\ControlPersonalWebAPI.Entidades.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ControlPersonalWebAPI.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ControlPersonalWebAPI.Entidades.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ControlPersonalWebAPI.Entidades.AssemblyInfo.cs
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ControlPersonalWebAPI.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ControlPersonalWebAPI.Entidades.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\refint\ControlPersonalWebAPI.Entidades.dll
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ControlPersonalWebAPI.Entidades.pdb
+C:\Users\Javier\source\repos\ControlPersonalWebAPI\ControlPersonalWebAPI.Entidades\obj\Debug\net8.0\ref\ControlPersonalWebAPI.Entidades.dll
